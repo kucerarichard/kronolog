@@ -1,2 +1,2 @@
 # kronolog
-Running Amok With Kubernetes And Cronolog!
+TO-DO With Kubernetes And Cronolog!
